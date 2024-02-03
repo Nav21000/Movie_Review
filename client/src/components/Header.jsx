@@ -5,6 +5,7 @@ import {AiOutlineSearch} from 'react-icons/ai'
 import {FaMoon,FaSun} from 'react-icons/fa'
 import {useSelector,useDispatch} from 'react-redux'
 import { toggleTheme } from '../redux/theme/themesSlice'
+import { signoutSuccess } from '../redux/user/userSlice'
 
 
 
